@@ -107,6 +107,3 @@ ggsave("Fig1_MovementLatency.pdf", gridTitle, width = 5, height = 4)
 
 #### Conclusion
 With ggplot2, you can create detailed and customized plots in R. By understanding the logic behind elements, layers, geoms, facets, scales, and themes, you can craft a wide variety of visualizations tailored to your data.
-
-### Contact 📞
-For collaboration or inquiries, [visit my homepage](https://github.com/YourUsername).
